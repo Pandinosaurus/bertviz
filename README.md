@@ -2,7 +2,7 @@
     BertViz
 </h1>
 <h3 align="center">
- Visualize Attention in NLP Models
+ Visualize Attention in Transformer Models
 </h3>
 <h3 align="center">
     <a href="#-quick-tour">Quick Tour</a> &bull;
@@ -11,7 +11,7 @@
     <a href="#-paper">Paper</a>
 </h3>
 
-BertViz is an interactive tool for visualizing attention in [Transformer](https://jalammar.github.io/illustrated-transformer/) language models such as BERT, GPT2, or T5. It can be run inside a Jupyter or Colab
+BertViz is an interactive tool for visualizing attention in [Transformer](https://jalammar.github.io/illustrated-transformer/) language models. It can be run inside a Jupyter or Colab
  notebook through a simple Python API that supports most [Huggingface models](https://huggingface.co/models). BertViz extends the
    [Tensor2Tensor visualization tool](https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/visualization)
     by [Llion Jones](https://medium.com/@llionj), providing multiple views that each offer a unique lens into the attention mechanism.
